@@ -1,3 +1,4 @@
+pandoc README.md -s -o README.html
 # NSI-
 Court CV:
 
