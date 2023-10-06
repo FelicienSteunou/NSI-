@@ -1,8 +1,7 @@
 # NSI-
-NSI
-# NSI-
 Court CV:
-aVATAR:![image](https://github.com/FelicienSteunou/NSI-/assets/146172415/6f37ecd8-c784-4a5d-8d31-667b31778278)
+
+Avatar:![image](https://github.com/FelicienSteunou/NSI-/assets/146172415/6f37ecd8-c784-4a5d-8d31-667b31778278)
 
 Nom: Felicien Steunou
 
