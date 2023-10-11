@@ -1,4 +1,3 @@
-pandoc README.md -s -o README.html
 # NSI-
 Court CV:
 
@@ -42,5 +41,5 @@ les films
 les jeux videos
 ![image](https://github.com/FelicienSteunou/NSI-/assets/146172415/994a495b-d221-4128-b489-1ff415f436ea)
 
-les autistes
+des amis
 ![image](https://github.com/FelicienSteunou/NSI-/assets/146172415/acd0ac04-fd92-4def-9ca2-1ccd405c4485)
